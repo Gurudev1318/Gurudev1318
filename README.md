@@ -62,15 +62,15 @@ HackWithInfy prep — segment trees, DSU, BFS, sliding window, matrix exponentia
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gurudev-var&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurudev-var&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gurudev1318&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurudev1318&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gurudev-var&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurudev1318&hide_border=true" />
 </p>
 
-<sub>⚠️ Replace <code>gurudev-var</code> above with your actual GitHub username for the stats cards to load correctly.</sub>
+<sub>⚠️ Replace <code>Gurudev1318</code> above with your actual GitHub username for the stats cards to load correctly.</sub>
 
 ---
 
