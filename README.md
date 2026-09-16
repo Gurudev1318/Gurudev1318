@@ -69,8 +69,7 @@ HackWithInfy prep — segment trees, DSU, BFS, sliding window, matrix exponentia
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gurudev1318&hide_border=true" />
 </p>
-
-<sub>⚠️ Replace <code>Gurudev1318</code> above with your actual GitHub username for the stats cards to load correctly.</sub>
+sub>
 
 ---
 
